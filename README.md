@@ -1,2 +1,2 @@
 # bca-usaco
-Bergen County Academy's USACO Club
+Bergen County Academy's USACO Club YAY
